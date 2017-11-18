@@ -1,0 +1,36 @@
+[{
+    "id": 0,
+    "name": "Tee rentoutushengitysharjoitus",
+    "content": "Harjoitus auttaa sinua rentoutumaan, kun tunnet stressiä, ahdistusta tai ärtymystä. <button class=\"{{buttonStyle}}\" ng-click=\"openUrl()\">Tee harjoitus tästä</button>",
+    "openUrl": "http://oivamieli.fi/rentoutushengitys.php"
+},{
+    "id": 1,
+    "name": "Tee Vuori-harjoitus",
+    "content": "Harjoitus on hyvä, kun tunnet olosi hajanaiseksi ja rauhattomaksi. <button class=\"{{buttonStyle}}\" ng-click=\"openUrl()\">Tee harjoitus tästä</button>",
+    "openUrl": "http://oivamieli.fi/vuori.php"
+},{
+    "id": 2,
+    "name": "Ole läsnä",
+    "content": "Elä tässä hetkessä. Katso ja kuuntele johdanto tietoiseen läsnäoloon: <button class=\"{{buttonStyle}}\" ng-click=\"openUrl()\">Aloita tästä</button>",
+    "openUrl": "http://oivamieli.fi/tietoinen_mieli_intro.php"
+},{
+    "id": 3,
+    "name": "Hyväksyvä mieli -harjoitus",
+    "content": "Hyväksy ajatuksesi ja tunteesi – se, mitä et voi muuttaa. Tee harjoitus. <button class=\"{{buttonStyle}}\" ng-click=\"openUrl()\">Aloita harjoitus tästä</button>",
+    "openUrl": "http://oivamieli.fi/hyvaksyva_mieli_intro.php"
+},{
+    "id": 4,
+    "name": "Tee Lehdet virrassa -harjoitus",
+    "content": "Huomaa, kuinka ajatuksesi tulevat ja menevät. <button class=\"{{buttonStyle}}t\" ng-click=\"openUrl()\">Aloita tästä</button>",
+    "openUrl": "http://oivamieli.fi/lehdet_virrassa.php"
+},{
+    "id": 5,
+    "name": "Rikkinäinen automaatti -harjoitus",
+    "content": "Harjoittele hyväksyvää asennetta itseäsi ja tilannettasi kohtaan. <button class=\"{{buttonStyle}}\" ng-click=\"openUrl()\">Tee Rikkinäinen automaatti -harjoitus tästä</button>",
+    "openUrl": "http://oivamieli.fi/rikkinainen_automaatti.php"
+},{
+    "id": 6,
+    "name": "Matkustajat bussissa -harjoitus",
+    "content": "Huomaa ajatuksia, jotka estävät sinua toimimasta arvojesi mukaisesti. Matkustajat bussissa -harjoituksen avulla opit vapautumista ajatusten ylivallasta. <button class=\"{{buttonStyle}}\" ng-click=\"openUrl()\">Tee Matkustajat bussissa -harjoitus tästä</button>",
+    "openUrl": "http://oivamieli.fi/matkustajat_bussissa.php"
+}]
