@@ -34,26 +34,12 @@
         "yleVideoEmbed": "http://yle.fi/aihe/artikkeli/2006/09/08/muhokselta-manilaan",
         "yleVideoDataId": "26-13958"
     },{
-        "id": 3,
-        "name": "Postiautolla läpi Suomen 1960-luvulla",
-        "content": "Kirkasvetisiä järviä, jylhiä vaaramaisemia ja koskematonta luontoa tarjosi 1960-luvun Suomi matkailijalle. Matka alkaa Ahvenanmaalta ja jatkuu Lappiin asti.",
-        "category": "Elämyksiä löytämään",
-        "belongsTo": "Historia",
-        "skipModalTo": "http://yle.fi/aihe/artikkeli/2010/10/13/matka-lapi-suomen"
-    },{
         "id": 4,
         "name": "Postiautolla läpi kesäisen Keski-Suomen 1960-luvulla",
         "content": "Posti- ja lennätinlaitoksen kotimaan matkailua esittelevässä sarjassa matkataan tällä kertaa Kesi-Suomessa, Tampereelta Jyväskylään ja takaisin. Fennada-filmi juniorin toteuttaman maakuntaesittelyn alussa nähdään myös erittäin harvinaista värikuvaa jääkiekon MM-kisoista vuonna 1965 Tampereella.",
         "category": "Elämyksiä löytämään",
         "belongsTo": "Historia",
         "skipModalTo": "http://yle.fi/aihe/artikkeli/2015/03/10/postiautolla-halki-kesaisen-keski-suomen"
-    },{
-        "id": 5,
-        "name": "Postiauton ikkunasta Pohjanmaa 1970-luvulla",
-        "content": "Postiauton ikkunasta näyttäytyy keväinen ja kesäinen Pohjanmaa tulvineen, jokineen, järvineen ja merenrantoineen. Posti- ja lennätinlaitoksen matkassa tutustutaan Etelä-, Keski- ja Pohjois-Pohjanmaan pitäjiin ja postitoimintaan 1970-luvun alussa.",
-        "category": "Elämyksiä löytämään",
-        "belongsTo": "Historia",
-        "skipModalTo": "http://yle.fi/aihe/artikkeli/2013/05/02/pohjanmaata-postiauton-ikkunasta-1970-luvulla"
     },{
         "id": 6,
         "name": "Metsästysharrastuksesta",
