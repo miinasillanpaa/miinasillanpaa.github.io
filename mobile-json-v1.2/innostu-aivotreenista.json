@@ -4,9 +4,9 @@
     "events": [{
             "id": 2,
             "name": "Muistipuisto",
-            "content": "",
+            "content": "Impulssi korvataan 1.2.2019 alkaen uudella maksuttomalla Muistipuisto -verkkopalvelulla. Muistipuistosta löydät tuttuja sisältöjä, mm. aivotreenit, mutta myös paljon uutta ja innostavaa aivoterveytesi tueksi. Muistipuisto.fi",
             "category": "Innostu aivotreeneistä",
-            "skipModalTo": "http://www.muistipuisto.fi"
+            "openUrl": "https://www.muistipuisto.fi"
         },{
             "id": 0,
             "name": "Yhteinen sävel -harjoitukset",
