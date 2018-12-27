@@ -5,7 +5,6 @@
             "id": 2,
             "name": "Muistipuisto",
             "content": "Impulssi korvataan 1.2.2019 alkaen uudella maksuttomalla Muistipuisto -verkkopalvelulla. Muistipuistosta löydät tuttuja sisältöjä, mm. aivotreenit, mutta myös paljon uutta ja innostavaa aivoterveytesi tueksi. <button class=\"{{buttonStyle}}\" ng-click=\"openUrl()\">Muistipuisto.fi</button>",
-            "category": "Innostu aivotreeneistä",
             "openUrl": "https://www.muistipuisto.fi"
         },{
             "id": 0,
