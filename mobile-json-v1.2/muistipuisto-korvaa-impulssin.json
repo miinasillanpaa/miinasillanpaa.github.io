@@ -1,6 +1,8 @@
 {
   "name": "Muistipuisto korvaa Impulssin",
-  "lead": "<p>Impulssi korvataan 1.2.2019 alkaen uudella maksuttomalla Muistipuisto -verkkopalvelulla. Muistipuistosta löydät tuttuja sisältöjä, mm. aivotreenit, mutta myös paljon uutta ja innostavaa aivoterveytesi tueksi.</p><br/>www.muistipuisto.fi",
+  "lead": "<p>Impulssi korvataan 1.2.2019 alkaen uudella maksuttomalla Muistipuisto -verkkopalvelulla. Muistipuistosta löydät tuttuja sisältöjä, mm. aivotreenit, mutta myös paljon uutta ja innostavaa aivoterveytesi tueksi.</p><p>www.muistipuisto.fi</p>",
+  "content": "<button class=\"{{buttonStyle}}\" ng-click=\"openUrl()\">Muistipuisto.fi</button>",
+  "openUrl": "https://www.muistipuisto.fi"
   "events": [{
             "id": 0,
             "name": "Muistipuisto.fi",
