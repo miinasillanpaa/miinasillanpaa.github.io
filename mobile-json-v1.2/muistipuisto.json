@@ -6,6 +6,7 @@
             "name": "Muistipuisto.fi",
             "content": "<button class=\"{{buttonStyle}}\" ng-click=\"openUrl()\">Muistipuisto.fi</button>",
             "openUrl": "https://www.muistipuisto.fi",
-            "category": ""
+            "category": "",
+            "skipModalTo": "https://www.muistipuisto.fi"
         }]
 }
